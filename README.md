@@ -16,19 +16,19 @@ This project is designed to provide an attractive user interface and smooth user
 
 ## 🛠️ Technologies Used
 
-- 🧱 HTML5
-- 🎨 CSS3
+- 🧱 HTML
+- 🎨 CSS
 
 
 ## 📂 Project Structure
 
-```
+
 project-folder/
 │
 ├── index.html
 ├── style.css
 └── README.md
-```
+
 
 
 ## 🚀 How to Run
