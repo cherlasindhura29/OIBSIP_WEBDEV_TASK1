@@ -49,12 +49,5 @@ project-folder/
 This project was created for practice and learning frontend web development concepts.
 
 
-## 📬 Contact
-
-GitHub: your-github-username
-
-
-⭐ If you like this project, give it a star!
-
-## Author
+# Author
 Sindhura Cherla
